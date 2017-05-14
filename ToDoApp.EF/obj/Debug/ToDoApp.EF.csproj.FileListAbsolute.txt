@@ -1,0 +1,12 @@
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\aspnet-ToDoApp-20170510013740.mdf
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\aspnet-ToDoApp-20170510013740_log.ldf
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\ToDoApp.EF.dll.config
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\ToDoApp.EF.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\ToDoApp.EF.pdb
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\EntityFramework.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\EntityFramework.xml
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\obj\Debug\ToDoApp.EF.csprojResolveAssemblyReference.cache
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\obj\Debug\ToDoApp.EF.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.EF\obj\Debug\ToDoApp.EF.pdb

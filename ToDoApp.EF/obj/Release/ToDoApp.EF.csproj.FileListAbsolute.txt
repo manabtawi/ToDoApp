@@ -1,0 +1,11 @@
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\aspnet-ToDoApp-20170510013740.mdf
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\aspnet-ToDoApp-20170510013740_log.ldf
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\ToDoApp.EF.dll.config
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\ToDoApp.EF.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\ToDoApp.EF.pdb
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\EntityFramework.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\EntityFramework.xml
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\obj\Release\ToDoApp.EF.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.EF\obj\Release\ToDoApp.EF.pdb

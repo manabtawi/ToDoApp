@@ -1,0 +1,8 @@
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\bin\Debug\ToDoApp.REST.SMS.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\bin\Debug\ToDoApp.REST.SMS.pdb
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\obj\Debug\ToDoApp.REST.SMS.csprojResolveAssemblyReference.cache
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\obj\Debug\ToDoApp.REST.SMS.dll
+C:\Users\manabtawi\Documents\GitHub\ToDoApp\ToDoApp.REST.SMS\obj\Debug\ToDoApp.REST.SMS.pdb

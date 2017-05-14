@@ -1,0 +1,8 @@
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\bin\Release\ToDoApp.REST.SMS.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\bin\Release\ToDoApp.REST.SMS.pdb
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\bin\Release\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\bin\Release\Newtonsoft.Json.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\bin\Release\Newtonsoft.Json.xml
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\obj\Release\ToDoApp.REST.SMS.csprojResolveAssemblyReference.cache
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\obj\Release\ToDoApp.REST.SMS.dll
+C:\Users\jotechies\Documents\Visual Studio 2017\Projects\ToDoApp\ToDoApp.REST.SMS\obj\Release\ToDoApp.REST.SMS.pdb
