@@ -1,5 +1,5 @@
 # ToDoApp
-Create ToDo List Azure Web App with SMS authentication and row level security using ASP.NET MVC Web API and Entity framework.
+Create ToDo List Azure Web App with SMS and Token-based authentication with a security on the row level using ASP.NET MVC Web API and Entity framework.
 
 Please follow the following steps of app creation:
 
