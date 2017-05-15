@@ -11,4 +11,4 @@ You need to make sure to install to following tools to prepare the development e
 - [Microsoft Azure Account](http://azure.microsoft.com)
 - [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - *OPTIONAL*
 
-[**Click here to get started with the HoL**](HOL.md)
+[***Click here to get started with the HoL***](HOL.md)
