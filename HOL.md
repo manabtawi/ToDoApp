@@ -155,7 +155,7 @@ Request Body: {"username" : "MOBILE_NUMBER_HERE"}
 *You should receive the short code as SMS to the given mobile number.*
   - Generate Access Token
 ```
-POST /api/token
+POST /token
   
 Host: localhost:54112 (Project URL)
   
@@ -200,6 +200,7 @@ CREATE TABLE [dbo].[ToDo] (
 - Rename the *Model Namespace to* `ToDoModel`, then click finish.
 - Copy the connection string setting `ToDoEntities` from *App.Config* in the *ToDoApp.EF* project and place it in the *Web.Config* of the *ToDoApp* project.
 - In the *ToDoApp* project:
+  - In the ToDoApp project right click on References the Add Reference, check on ToDoApp.EF then click OK.
   - Create new model `ToDoModels.cs` and add the following class:
   ```
   public class ToDoItem
