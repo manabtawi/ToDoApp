@@ -2,7 +2,7 @@
 - From Azure portal create and deploy **Web App + SQL** or you can create both of them separately.
 - From Visual Studio 2017 create new solution `ASP.NET Web Application .NET Framework` and name it `ToDoApp`.
 - Choose **Web API** from the template box.
-- Change the Authetication to **Individual Account User Accounts**
+- Change the Authetication to **Individual User Accounts**
 - On Visual Studio navigate to **SQL Server Object Explorer** and click **Add SQL Server**, then expand *Azure* in order to connect to your database that created using Azure Portal.
 - Right click on the database and select **properties** then copy the **connection string** attribute value.
 - Paste the copied **connection string** in the `Web.config` in the `DefaultConnection` and make sure to replace the password from stars `;Password=******;` to the actual password that has been set prior the deployment.
