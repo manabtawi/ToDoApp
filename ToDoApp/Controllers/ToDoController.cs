@@ -85,7 +85,7 @@ namespace ToDoApp.Controllers
                 Created = DateTime.Now,
                 UserId = RequestContext.Principal.Identity.GetUserId(),
                 Notes = model.Notes,
-                Done = model.Done
+                Done = false //model.Done
             };
             db.ToDoes.Add(obj);
             await db.SaveChangesAsync();
