@@ -431,6 +431,7 @@ CREATE TABLE [dbo].[ToDo] (
   {
     "Name": "TASK NAME",
     "Notes": "TASK NOTES",
+    "Done": 0
   }
   ```
   - Delete Item
