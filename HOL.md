@@ -14,6 +14,7 @@
  - Press **F5** to build and run the web app.
  
  # Part 2: Configure the SMS API
+ **Important note: Skip this part if you have your own SMS integration. This part included SMS integration with a Twilio SDK published on Azure API Service**
  - Right click on the solution and **Add New Project** and select **Class Library (.NET Framework)**, then name it to `ToDoApp.REST.SMS`.
  - Right click on the project `ToDoApp.REST.SMS` then add **REST API Client**.
  - In the Add *REST API Client* window  set the **Swagger URL** to `https://jotechiesapi.azurewebsites.net/swagger/docs/v1` and change the *Namespace* to `SMSAPI`. 
