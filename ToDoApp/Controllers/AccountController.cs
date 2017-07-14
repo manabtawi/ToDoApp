@@ -351,14 +351,16 @@ namespace ToDoApp.Controllers
                     return GetErrorResult(result);
                 }
             }
-            
 
-            // Send SMS short code
+
+            // Send SMS short code (Replace this code with your SMS integration)
+            // ####################
             Utils.SmsHelper.SendShortCode(new SmsModel()
             {
                 to = model.UserName,
                 body = model.Password
             });                           
+            // ####################
 
             return Ok();
         }
