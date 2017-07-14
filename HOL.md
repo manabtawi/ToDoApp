@@ -2,7 +2,7 @@
 - From Azure portal create and deploy **Web App + SQL** or you can create both of them separately.
 - From Visual Studio 2017 create new solution `ASP.NET Web Application .NET Framework` and name it `ToDoApp`.
 - Choose **Web API** from the template box.
-- Change the Authetication to **Individual Account User Accounts**
+- Change the Authetication to **Individual User Accounts**
 - On Visual Studio navigate to **SQL Server Object Explorer** and click **Add SQL Server**, then expand *Azure* in order to connect to your database that created using Azure Portal.
 - Right click on the database and select **properties** then copy the **connection string** attribute value.
 - Paste the copied **connection string** in the `Web.config` in the `DefaultConnection` and make sure to replace the password from stars `;Password=******;` to the actual password that has been set prior the deployment.
@@ -14,9 +14,10 @@
  - Press **F5** to build and run the web app.
  
  # Part 2: Configure the SMS API
+ ***Important note: skip this part if you have your own SMS integration. This part included SMS integration with a Twilio SDK published on Azure API Service***
  - Right click on the solution and **Add New Project** and select **Class Library (.NET Framework)**, then name it to `ToDoApp.REST.SMS`.
  - Right click on the project `ToDoApp.REST.SMS` then add **REST API Client**.
- - In the Add *REST API Client* window  set the **Swagger URL** to `https://jotechiesapi.azurewebsites.net/swagger/docs/v1` and change the *Namespace* to `SMSAPI`. 
+ - In the Add *REST API Client* window  set the **Swagger URL** to `AZURE_API_END_POINT/swagger/docs/v1` and change the *Namespace* to `SMSAPI`. 
 *Note: The above swagger URL is an API interface deoplyed to **Azure API App** and implements **[Twilio](http://www.twilio.com) SDK***
  - Build the project **ToDoApp.REST.SMS**.
  - In the **ToDoApp** project right click on *References* the *Add Reference*, check on *ToDoApp.REST.SMS* then click OK.
@@ -70,8 +71,8 @@ public static string SMS_API_SENDER = ConfigurationManager.AppSettings["SMS_API_
  And add the following directive: `using System.Configuration;`
  - Go to `Web.config` and place the following under `<appSetting>`:
  ```
- <add key="SMS_API_ENDPOINT" value="https://jotechiesapi.azurewebsites.net" />
- <add key="SMS_API_SENDER" value="+19094747918" />
+ <add key="SMS_API_ENDPOINT" value="AZURE_API_ENDPOINT" />
+ <add key="SMS_API_SENDER" value="SENDER_ID_HERE" />
  ```
  - Build the project.
  
@@ -431,6 +432,7 @@ CREATE TABLE [dbo].[ToDo] (
   {
     "Name": "TASK NAME",
     "Notes": "TASK NOTES",
+    "Done": 0
   }
   ```
   - Delete Item
